@@ -1,0 +1,23 @@
+:cp ./lib/commons-collections.jar
+:cp ./lib/jakarta-log4j.jar
+:cp ./lib/commons-lang.jar
+:cp ./lib/jline.jar
+:cp ./lib/antlr.jar
+:cp ./lib/google-collect.jar
+:cp ./lib/json-simple-1.1.jar
+:cp ./lib/avro-1.2.0-dev.jar
+:cp ./lib/google-collections-1.0.jar
+:cp ./lib/junit.jar
+:cp ./lib/cassandra.jar
+:cp ./lib/hadoop-core-0.20.1.jar
+:cp ./lib/libthrift-r917130.jar
+:cp ./lib/clhm-production.jar
+:cp ./lib/high-scale-lib.jar
+:cp ./lib/log4j-1.2.14.jar
+:cp ./lib/commons-cli.jar
+:cp ./lib/jackson-core-asl-1.4.0.jar
+:cp ./lib/slf4j-api.jar
+:cp ./lib/commons-codec-1.2.jar
+:cp ./lib/jackson-mapper-asl-1.4.0.jar
+:cp ./lib/slf4j-log4j12.jar
+
