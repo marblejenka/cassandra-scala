@@ -1,0 +1,17 @@
+this is sample project for access to cassandra from Scala REPL.
+instraction is following.
+
+
+sudo port install cassandra
+sudo cassandra -f
+
+mkdir lib
+cp /opt/local/share/java/cassandra.jar lib
+cp /opt/local/share/java/cassandra/lib/*.jar lib
+
+wget http://github.com/marblejenka/cassandra-scala/raw/master/jarloader.scala
+wget http://github.com/marblejenka/cassandra-scala/raw/master/sample.scala
+
+scala-2.8
+:load ./sample.scala
+
